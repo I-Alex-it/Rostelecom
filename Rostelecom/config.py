@@ -1,6 +1,7 @@
 
 MAIN_URL = 'https://b2c.passport.rt.ru'
 
+# Все valid данные заменить своими
 # Данные для авторизации
 valid_phone = "+79123456789"  # Пример валидного номера
 valid_mail = "valid_email@example.com"
